@@ -1,0 +1,13 @@
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\bin\Debug\netcoreapp3.1\BasicAlgorithmApp.exe
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\bin\Debug\netcoreapp3.1\BasicAlgorithmApp.deps.json
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\bin\Debug\netcoreapp3.1\BasicAlgorithmApp.runtimeconfig.json
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\bin\Debug\netcoreapp3.1\BasicAlgorithmApp.runtimeconfig.dev.json
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\bin\Debug\netcoreapp3.1\BasicAlgorithmApp.dll
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\bin\Debug\netcoreapp3.1\BasicAlgorithmApp.pdb
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\obj\Debug\netcoreapp3.1\BasicAlgorithmApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\obj\Debug\netcoreapp3.1\BasicAlgorithmApp.AssemblyInfoInputs.cache
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\obj\Debug\netcoreapp3.1\BasicAlgorithmApp.AssemblyInfo.cs
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\obj\Debug\netcoreapp3.1\BasicAlgorithmApp.csproj.CoreCompileInputs.cache
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\obj\Debug\netcoreapp3.1\BasicAlgorithmApp.dll
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\obj\Debug\netcoreapp3.1\BasicAlgorithmApp.pdb
+D:\Private\Xtramile\AARikoMahendra\Code\BasicAlgorithmApp\BasicAlgorithmApp\obj\Debug\netcoreapp3.1\BasicAlgorithmApp.genruntimeconfig.cache

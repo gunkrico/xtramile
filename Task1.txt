@@ -1,0 +1,32 @@
+Data Structure: Trie
+A Trie is a tree-like data structure where each node represents a character in a string. The path from the root to a particular node forms the string represented by the concatenation of characters along that path. Tries are efficient for string matching and search operations because they allow for quick traversal through the characters in the strings.
+
+Search/Matching Algorithm: Trie-based Search
+Insertion:
+
+Each patient name is inserted into the Trie as a sequence of characters.
+The Trie structure allows for efficient insertion and retrieval based on prefixes.
+Search:
+
+When a user types a partial name, you traverse the Trie starting from the root, following the path corresponding to the characters entered by the user.
+At each step, you can quickly eliminate branches that do not match the entered prefix, narrowing down the search.
+Efficiency and Speed:
+Search Time Complexity:
+
+The time complexity of searching in a Trie is generally O(m), where m is the length of the search string (or the entered prefix). This is because you traverse the Trie character by character.
+Space Complexity:
+
+Tries can have a space complexity that is higher than some other data structures, but with modern hardware capabilities and considering the specific requirements of your use case, the space trade-off might be acceptable.
+Performance with Large Datasets:
+
+Tries are efficient for partial matching, making them suitable for scenarios where you need to search for names based on partial input.
+The actual performance depends on factors like the depth of the Trie and the distribution of names in your dataset.
+Indexing:
+
+Additionally, consider indexing the patient names in your relational database to further optimize the search performance.
+While Trie is a good option for partial matching, the choice of data structure also depends on other factors like the specific characteristics of your dataset, the frequency of updates, and the overall system architecture. Always consider benchmarking and profiling with realistic data to ensure that the chosen approach meets your performance requirements.
+
+
+
+
+
